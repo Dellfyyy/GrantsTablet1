@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrantsTablet", "GrantsTablet\GrantsTablet.csproj", "{4CC4344B-A726-43A0-989F-0B749787A795}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{4E03B2C9-0014-45B3-82AD-203EAEE55321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC4344B-A726-43A0-989F-0B749787A795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC4344B-A726-43A0-989F-0B749787A795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC4344B-A726-43A0-989F-0B749787A795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC4344B-A726-43A0-989F-0B749787A795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E03B2C9-0014-45B3-82AD-203EAEE55321}.Debug|Any CPU.ActiveCfg = Debug
+		{4E03B2C9-0014-45B3-82AD-203EAEE55321}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BAF13B-34F0-4D7F-84D0-4C21A0928F86}
+	EndGlobalSection
+EndGlobal
